@@ -41,7 +41,7 @@ namespace Fast_Monke
                 }
                 else
                 {
-                    __instance.jumpMultiplier = 1.25f;
+                    __instance.jumpMultiplier = 1.1f;
                 }
 
                 if (__instance.maxJumpSpeed < 999f)
